@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="org.apache.flink.streaming.connectors.elasticsearch.elasticsearch" />
+          <option value="org.apache.flink.streaming.connectors.elasticsearch6.ElasticsearchSink" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
